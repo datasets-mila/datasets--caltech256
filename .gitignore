@@ -2,3 +2,4 @@
 *.jugdata/
 /.tmp/
 /logs/
+/scripts/caltech256_config
