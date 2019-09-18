@@ -3,3 +3,5 @@
 /.tmp/
 /logs/
 /scripts/caltech256_config
+/caltech256/*_ObjectCategories/
+/caltech256/Annotations/
